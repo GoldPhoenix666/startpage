@@ -33,6 +33,20 @@ color:white;
 a:hover{
 }
 
+ul li ul li{
+	font-size:1.1vw;
+	text-indent: -75px;
+opacity: 0;
+}
+
+ul li:hover ul li{
+	text-decoration: underline red;
+opacity: 1;
+
+
+}
+
+
 #devel{
 font-size:2vw;
 

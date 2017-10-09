@@ -55,7 +55,28 @@
 	<li id="exttext" >
 		<a href="https://stackoverflow.com/">Stack Overflow</a>
 	</li>
-
+<br />
+	<li id="exttext">
+		<a href="https://www.w3schools.com/">W3 Schools</a>
+		<ul>
+<br />
+			<li>
+				<a href="https://www.w3schools.com/php/">W3 PHP</a>
+			</li>
+<br />
+			<li>
+				<a href="https://www.w3schools.com/sql/">W3 SQL</a>
+			</li>
+<br />		
+			<li>
+				<a href="https://www.w3schools.com/css/">W3 CSS</a>
+			</li>
+<br />
+			<li>
+				<a href="https://www.w3schools.com/js/">W3 JS</a>
+			</li>
+		</ul>
+	</li>
 
 </ul>
 
@@ -79,6 +100,10 @@
 <br />
 	<li id="hiddentext">
 		<a href="https://www.youtube.com/feed/subscriptions">Subscriptions</a>
+	</li>
+<br />
+	<li id="hiddentext">
+		<a href="https://www.reddit.com/r/vitahomebrew">PSV Henkaku</a>
 	</li>
 </ul>
 
