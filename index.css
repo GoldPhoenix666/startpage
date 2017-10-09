@@ -1,0 +1,80 @@
+body{
+background-image: url(background.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+ul{
+display:inline-block;
+text-decoration: none;
+vertical-align: top;
+}
+
+li{
+display:inline-block;
+text-decoration: none;
+list-style-type: none;
+text-indent: 50px;
+}
+
+a{
+text-decoration: none;
+list-style-type: none;	
+}
+
+a:visited{
+color:white;	
+}
+ 
+a:link{
+color:white;
+}
+
+a:hover{
+}
+
+#devel{
+font-size:2vw;
+
+}
+
+#develtext{
+	font-size: 1.3vw;
+}
+
+#develtext:hover{
+text-decoration:underline lightblue;
+
+}
+
+#exttext{
+	font-size: 1.3vw;
+}
+
+#exttext:hover{
+	font-size: 1.3vw;
+	text-decoration: underline red;
+}
+
+#usetext{
+	font-size: 1.3vw;
+
+
+}
+
+#usetext:hover{
+	font-size: 1.3vw;
+	text-decoration: underline lightgreen;
+
+}
+
+#hiddentext{
+font-size: 1.3vw;
+opacity:0;
+}
+
+#hiddentext:hover{
+		font-size: 1.3vw;
+		opacity: 1;
+	text-decoration: underline white;
+}
