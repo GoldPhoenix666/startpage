@@ -28,19 +28,7 @@
 	</li>
 
 </ul>
-
-<!--<ul>Youtube
-<br />
-	<li>
-		<a href="https://www.youtube.com/playlist?list=PL7BhAa77vqwv04dAo106EPoB8c_mZJyB_">Music Playlist 7</a>
-	</li>
-<br />
-	<li>
-		<a href="https://www.youtube.com/feed/subscriptions">Subscriptions</a>
-	</li>
-</ul>-->	
-
-
+s
 
 <ul style="color:red;">External Info
 <br />	
@@ -88,7 +76,7 @@
 </ul>
 
 
-<ul id="hiddentext" style="color:black;">Hidden Links
+<!--<ul id="hiddentext" style="color:black;">Hidden Links
 <br />
 	<li id="hiddentext">
 		<a href="https://www.facebook.com">Facebook</a>
@@ -103,9 +91,9 @@
 	</li>
 <br />
 	<li id="hiddentext">
-		<a href="https://www.reddit.com/r/vitahomebrew">PSV Henkaku</a>
+		<a href="https://www.reddit.com/r/vitahacks/">PSV Henkaku</a>
 	</li>
-</ul>
+</ul>-->
 
 <ul>
 <br />
@@ -119,9 +107,14 @@
 
 </ul>
 
-
-
 </div>	
+
+
+
+<div id="set2" >
+
+
+</div>
 
 
 </body>
