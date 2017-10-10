@@ -73,6 +73,10 @@ s
 	<li id="usetext">
 		<a href="https://www.google.co.uk">Google</a>
 	</li>
+<br />
+	<li id="usetext">
+		<a href="https://gmail.com">Gmail</a>
+	</li>
 </ul>
 
 
@@ -113,6 +117,12 @@ s
 
 <div id="set2" >
 
+
+<div class="search">
+	<form method="GET" action="https://www.google.co.uk/search">
+		<input type="text" name="q" placeholder="Search Google..." size="35%;" autofocus="" />
+		<input type="submit" name="Search" value="Search">
+	</form>
 
 </div>
 

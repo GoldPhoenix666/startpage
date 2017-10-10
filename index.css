@@ -97,3 +97,11 @@ opacity:0;
 		opacity: 1;
 	text-decoration: underline white;
 }
+
+.search{
+	position: relative;
+border:0px red solid;
+margin-left: 79%;
+top: -135px;
+display: inline-block;
+}
