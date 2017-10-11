@@ -1,7 +1,7 @@
 body{
 background-image: url(background.jpg);
 background-size: cover;
-background-repeat: no-repeat;
+/*background-repeat: no-repeat;*/
 }
 
 ul{
@@ -101,7 +101,7 @@ opacity:0;
 .search{
 	position: relative;
 border:0px red solid;
-margin-left: 79%;
-top: -135px;
+margin-left: 83%;
+top: -180px;
 display: inline-block;
 }

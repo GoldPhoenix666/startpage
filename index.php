@@ -20,7 +20,7 @@
 	</li>
 <br />
 	<li id="develtext">
-		<a href="http://localhost/messaround/correct.php">Localhost - Correct</a>
+		<a href="http://localhost/messaround">Localhost</a>
 	</li>
 <br />
 	<li id="develtext">
@@ -42,6 +42,10 @@ s
 <br />
 	<li id="exttext" >
 		<a href="https://stackoverflow.com/">Stack Overflow</a>
+	</li>
+<br />
+	<li id="exttext" >
+		<a href="https://www.w3resource.com">W3 Resource</a>	
 	</li>
 <br />
 	<li id="exttext">
